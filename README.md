@@ -201,6 +201,3 @@ Example:
 - The console version keeps tasks in memory through `TaskScheduler` and also inserts new tasks into the database.
 - New tasks currently use `user_id = 1`, so keep a default user in the `users` table.
 
-## Author
-
-Created by Shilpi Gupta.
